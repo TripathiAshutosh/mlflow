@@ -11,7 +11,10 @@ To explain, how experiment tracking works and how to implement it using python, 
 4. Fine tune the model using hyper parameter tuning random search CV method
 5. Create another experiment and log all hyper parameters, metrics, and artifacts which contains model, roc_auc curve PNG, confusion Matrix PNG.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r0do1KVEGqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![image](https://user-images.githubusercontent.com/40880107/179553966-6e274ff1-0d05-46fe-bbbd-9b77666282a0.png)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=r0do1KVEGqM" target="_blank"><img src="http://img.youtube.com/vi/r0do1KVEGqM/0.jpg" 
+alt="MLFlow Live Demo" width="240" height="180" border="10" /></a>
 
 if you have any query, go to the video link and ask your queries using the comment section.
 
