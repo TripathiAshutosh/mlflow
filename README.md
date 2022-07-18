@@ -12,8 +12,9 @@ To explain, how experiment tracking works and how to implement it using python, 
 5. Create another experiment and log all hyper parameters, metrics, and artifacts which contains model, roc_auc curve PNG, confusion Matrix PNG.
 
 Watch on YouTube [click below image]
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=r0do1KVEGqM" target="_blank"><img src="http://img.youtube.com/vi/r0do1KVEGqM/0.jpg" 
-alt="MLFlow Live Demo" width="240" height="180" border="10" /></a>
+alt="MLFlow Live Demo" width="560" height="315" border="10" /></a>
 
 if you have any query, go to the video link and ask your queries using the comment section.
 
