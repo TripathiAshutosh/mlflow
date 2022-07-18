@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Ashutosh%20Tripathi/Documents/projects/mlflow/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: optimized model

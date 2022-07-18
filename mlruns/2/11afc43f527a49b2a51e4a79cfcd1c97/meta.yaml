@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ashutosh%20Tripathi/Documents/projects/mlflow/mlruns/2/11afc43f527a49b2a51e4a79cfcd1c97/artifacts
+end_time: 1657088116172
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 11afc43f527a49b2a51e4a79cfcd1c97
+run_uuid: 11afc43f527a49b2a51e4a79cfcd1c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657088113407
+status: 3
+tags: []
+user_id: Ashutosh Tripathi
